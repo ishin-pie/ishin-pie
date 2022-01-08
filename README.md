@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 <h1><i>Hi 👋, I'm Ishin</i></h1>
 <h5><i>A software developer from Cambodia 🇰🇭</i></h5>
 
-<br />
-
 <h2><i>Skills</i></h2>
 
 #### Languages
