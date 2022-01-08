@@ -72,6 +72,9 @@ Here are some ideas to get you started:
 ![Yarn](https://img.shields.io/badge/-Yarn-black?style=flat-square&logo=Yarn)
 
 <br />
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishin-pie&show_icons=true&locale=en&layout=compact&theme=dark&" alt="ishin-pie" /></p>
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ishin-pie&count_private=true&show_icons=true&locale=en&theme=dark&hide_rank=true" alt="ishin-pie" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ishin-pie&count_private=true&show_icons=true&locale=en&theme=dark&hide_rank=true" alt="ishin-pie" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishin-pie&show_icons=true&locale=en&layout=compact&theme=dark&" alt="ishin-pie" /></p>
+
+
